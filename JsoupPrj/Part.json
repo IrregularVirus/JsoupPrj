@@ -1,0 +1,141 @@
+{
+  "id": "fedfmG",
+  "part_id": "diSkUSi",
+  "appliance_id": "kiSkGmSUi",
+  "name": "Absorber",
+  "number": "133007-4",
+  "quality": "PJ",
+  "family": null,
+  "producer": "",
+  "is_new": null,
+  "state_id": 32,
+  "ordering_mode_id": 1,
+  "appliance_identifier": {
+    "public_id": 17794255
+  },
+  "features": {
+    "preview": {
+      "location": "F"
+    }
+  },
+  "meta": {
+    "show_vehicles_appliances": false,
+    "show_oe_numbers": true,
+    "show_cross_numbers": false,
+    "indexable_as_part": false,
+    "indexable_as_appliance": false,
+    "printable": false,
+    "show_photo_in_tab": false,
+    "show_related_parts": false
+  },
+  "cross_numbers": null,
+  "photo_info": {
+    "thumbnail": true,
+    "medium": true,
+    "fragmented": true
+  },
+  "assortment": {
+    "hash": "8604c50662029e61471b444c3e4e1eb7",
+    "category": {
+      "id": 865,
+      "code": "KatKatalogGlowny",
+      "name": "Body and associated parts",
+      "slug": "body-and-associated-parts"
+    },
+    "group": {
+      "id": "kfk",
+      "name": "Body parts",
+      "has_news": false
+    },
+    "type": {
+      "id": "Jfk",
+      "name": "Bumpers and their components",
+      "has_news": false
+    },
+    "part_name": {
+      "id": "ieeGi",
+      "name": "Absorber",
+      "has_news": false
+    }
+  },
+  "manufacturer": {
+    "data": {
+      "id": "kU",
+      "name": "AUDI"
+    }
+  },
+  "category_code": "KatKatalogGlowny",
+  "model": {
+    "data": {
+      "id": "JJdGeU",
+      "name": "A8 (D4/4F), 12.09-11.13",
+      "category_code": "KatKatalogGlowny"
+    }
+  },
+  "generic_preview_features": {
+    "data": [
+      {
+        "id": -12,
+        "name": "Quality",
+        "value": "PJ",
+        "order": 7
+      },
+      {
+        "id": 1157,
+        "name": "Front/rear",
+        "value": "Front",
+        "order": 266
+      }
+    ]
+  },
+  "in_special_order": false,
+  "special_order_label": null,
+  "request_identifier": "KatKatalogGlowny__sep__133007-4__sep__17794255",
+  "thumbnail_info": "",
+  "quality_description": "PJ - supplier-recommended replacement parts of quality** matching the quality of components fitted on vehicle assembly lines.",
+  "urls": {
+    "self": "https://catalog.polcar.com/product/body-and-associated-parts/absorber/133007-4?appliance_id=17794255",
+    "quality": "https://catalog.polcar.com/pages/quality-marking-products#card-1",
+    "thumbnail_photo": "https://catalog.polcar.com/photos/diSkUSi/thumbnail",
+    "normal_photo": "https://catalog.polcar.com/photos/diSkUSi/normal",
+    "fragmented_photo": "https://catalog.polcar.com/photos/diSkUSi/fragmented?data=C%3A34%3A%22App%5CModels%5CCatalog%5CPartInfoOnPhoto%22%3A472%3A%7BeyJpdiI6IkpIYjFDaWhEZmdCKzdJWTJKa3RsOFE9PSIsInZhbHVlIjoiRmxZOUs5cWF4bTJrSHZFRzlvTFViYVozVTN0alVnZTgxbUFvUGg3K2QvcUk5cjlpSlJNcXlFUGVzU3dSZkZ1RTc0RnAxM0ZSMUgvaVpxVndRYXM3VEZERS9TL1QvSTZCQWFKeVpmdEp4YmdzWmlmZThjK1N2dTJ1VGJvYzdUM0g2L1B5U0kzUUlzeEh5RVJKcHpRUDVDL3hMZmd0UmNMK0VOOWlmNDJiYkZsRWwwc093T1M3QjR0c0lSZFQyaklKSVRxTVowSFNUWlVML1Q0WkYvUEdJaFlKM0dkQlg2S2RoWHJRby8xeHJiRT0iLCJtYWMiOiIyNDdmNzIzMjA5MzIwZWE3OWEzNGVjMzI2OWQ2NmFjNGY3NzFhYjJjN2VjNzZhMTcwZDhhNzM1YWRiZTkxZDIwIn0%3D%7D",
+    "document": "https://catalog.polcar.com/catalog/product/document?category=KatKatalogGlowny&number=133007-4&appliance_id=17794255"
+  },
+  "comparison": {
+    "added": false,
+    "add_url": "https://catalog.polcar.com/comparisons?category=KatKatalogGlowny&number=133007-4&appliance_id=17794255",
+    "remove_url": "https://catalog.polcar.com/comparisons?category=KatKatalogGlowny&number=133007-4&appliance_id=17794255"
+  },
+  "cart": {
+    "add_url": "https://catalog.polcar.com/cart?category=KatKatalogGlowny&number=133007-4&appliance_id=17794255",
+    "update_url": "https://catalog.polcar.com/cart?category=KatKatalogGlowny&number=133007-4&appliance_id=17794255",
+    "remove_url": "https://catalog.polcar.com/cart?category=KatKatalogGlowny&number=133007-4&appliance_id=17794255"
+  },
+  "photos": {
+    "thumbnail": "<div class=\"part-photo-container part-photo\">\n    <a class=\"protected-image clickable-photo\" href=\"https://catalog.polcar.com/product/body-and-associated-parts/absorber/133007-4?appliance_id=17794255\" rel=\"nofollow\">\n        <img data-src=\"https://catalog.polcar.com/photos/diSkUSi/thumbnail\" class=\"lazyload\" alt=\"\" width=\"100\" height=\"70\">\n        <span class=\"cover\">\n            <img src=\"https://catalog.polcar.com/images/blank.png\" alt=\"\" width=\"100\" height=\"70\">\n        </span>\n    </a>\n\n    <div class=\"part-photo-info\">\n    <div class=\"part-item-quality-line\">\n        <span data-tooltip=\"PJ - supplier-recommended replacement parts of quality** matching the quality of components fitted on vehicle assembly lines.\">PJ</span>\n    </div>\n\n    </div></div>\n",
+    "normal": "<div class=\"part-photo-container part-photo\">\n    <div class=\"protected-image\">\n        <img src=\"https://catalog.polcar.com/photos/diSkUSi/normal\" alt=\"\" width=\"200\" height=\"140\">\n                <a href=\"https://catalog.polcar.com/images/blank.png\" data-resource=\"https://catalog.polcar.com/photos/diSkUSi/fragmented?data=C%3A34%3A%22App%5CModels%5CCatalog%5CPartInfoOnPhoto%22%3A472%3A%7BeyJpdiI6InRKRFVlRHZKRG55UzBKZlRpZFJ1eEE9PSIsInZhbHVlIjoicFdJUFM2SjRrczRuTzdldVdiczV2cDFRdmVheEFuZ25Ra0Y5VUcyZTB2bmFPTFRJSERZaGloTzcxMnJ1TUhXVWh1bnllK3Zla2Y4Zm45NDBjOGlmYmpER0VtZWFDQ3IyTi84VjVQOWhVbDFER2w4cU40djlFSFZVczRoVkdKZWQvNUhCTGZlTTFxM21DNDhTUHFsZFdlN1NTYmI2RU1icEQvWDYxaXNPUHdYVWtDY2xzcmd0c0x2OGt1Unp2Z2dlWnRkV0VKTGFxaVozUzFqaGVpKytkM01DVngxODhSazNqVUVsc0dtaER3az0iLCJtYWMiOiJkNWM0Nzg0MWM1ZDUwM2IwMTQ0MzJkZWUxNmM1YjJiN2MwYjVhNTUxNGE0MDRkZmQyMjg4ZWQ0ZTAyOGI3MjgzIn0%3D%7D\" class=\"cover zoom\">\n            <span class=\"icon\"></span>\n            <img class=\"cover small\" src=\"https://catalog.polcar.com/images/blank.png\" alt=\"\" width=\"200\" height=\"140\">\n        </a>\n            </div>\n\n    <div class=\"part-photo-info\">\n    <div class=\"part-item-quality-line\">\n        <span data-tooltip=\"PJ - supplier-recommended replacement parts of quality** matching the quality of components fitted on vehicle assembly lines.\">PJ</span>\n    </div>\n\n    </div></div>",
+    "image": "<div class=\"part-photo-container part-photo\">\n    <img src=\"https://catalog.polcar.com/photos/diSkUSi/normal\" alt=\"\" width=\"200\" height=\"140\">\n\n    <div class=\"part-photo-info\">\n    <div class=\"part-item-quality-line\">\n        <span data-tooltip=\"PJ - supplier-recommended replacement parts of quality** matching the quality of components fitted on vehicle assembly lines.\">PJ</span>\n    </div>\n\n    </div></div>"
+  },
+  "default_quantity_to_buy": 1,
+  "max_quantity_to_buy": 30,
+  "stocks_quantity": 0,
+  "stocks_info": [
+    {
+      "stock": {
+        "stock_id": null,
+        "name": "Polcar",
+        "label": "Polcar",
+        "is_default": true,
+        "update_date": null
+      },
+      "quantity": "0",
+      "quantity_as_number": 0,
+      "availability_level": "unavailable",
+      "icon_tooltip": "Check availability at regional Polcar dealers by phone. Main Polcar warehouse – 0 pcs.",
+      "label_tooltip": "Check availability at regional Polcar dealers by phone. Main Polcar warehouse – 0 pcs."
+    }
+  ],
+  "prices_info": [],
+  "prices_type": "default",
+  "expected_price_info": null
+}
